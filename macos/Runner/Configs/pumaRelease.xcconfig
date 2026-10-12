@@ -1,0 +1,6 @@
+#include "../../Flutter/pumaRelease.xcconfig"
+#include "Warnings.xcconfig"
+
+ASSET_PREFIX=puma
+BUNDLE_NAME=Flavor Puma
+BUNDLE_DISPLAY_NAME=Flavor Puma

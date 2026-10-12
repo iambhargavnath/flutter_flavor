@@ -1,0 +1,6 @@
+#include "../../Flutter/nikeDebug.xcconfig"
+#include "Warnings.xcconfig"
+
+ASSET_PREFIX=nike
+BUNDLE_NAME=Flavor Nike
+BUNDLE_DISPLAY_NAME=Flavor Nike

@@ -1,0 +1,6 @@
+#include? "Pods/Target Support Files/Pods-Runner/Pods-Runner.release.xcconfig"
+#include "Generated.xcconfig"
+
+ASSET_PREFIX=puma
+BUNDLE_NAME=Flavor Puma
+BUNDLE_DISPLAY_NAME=Flavor Puma

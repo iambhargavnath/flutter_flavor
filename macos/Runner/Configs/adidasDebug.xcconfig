@@ -1,0 +1,6 @@
+#include "../../Flutter/adidasDebug.xcconfig"
+#include "Warnings.xcconfig"
+
+ASSET_PREFIX=adidas
+BUNDLE_NAME=Flavor Adidas
+BUNDLE_DISPLAY_NAME=Flavor Adidas

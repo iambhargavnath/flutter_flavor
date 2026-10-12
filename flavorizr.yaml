@@ -1,0 +1,44 @@
+# flavorizr.yaml
+
+flavors:
+  nike:
+    app:
+      name: "Flavor Nike"
+      icon: "assets/brands/nike/app_icon.png"
+    android:
+      applicationId: "com.example.flavor.nike"
+    ios:
+      bundleId: "com.example.flavor.nike"
+    macos:
+      bundleId: "com.example.flavor.nike"
+    linux:
+      applicationId: "com.example.flavor.nike"
+    windows: {}
+
+  puma:
+    app:
+      name: "Flavor Puma"
+      icon: "assets/brands/puma/app_icon.png"
+    android:
+      applicationId: "com.example.flavor.puma"
+    ios:
+      bundleId: "com.example.flavor.puma"
+    macos:
+      bundleId: "com.example.flavor.puma"
+    linux:
+      applicationId: "com.example.flavor.puma"
+    windows: {}
+
+  adidas:
+    app:
+      name: "Flavor Adidas"
+      icon: "assets/brands/adidas/app_icon.png"
+    android:
+      applicationId: "com.example.flavor.adidas"
+    ios:
+      bundleId: "com.example.flavor.adidas"
+    macos:
+      bundleId: "com.example.flavor.adidas"
+    linux:
+      applicationId: "com.example.flavor.adidas"
+    windows: {}

@@ -1,0 +1,6 @@
+#include? "Pods/Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig"
+#include "Generated.xcconfig"
+
+ASSET_PREFIX=adidas
+BUNDLE_NAME=Flavor Adidas
+BUNDLE_DISPLAY_NAME=Flavor Adidas

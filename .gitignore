@@ -1,0 +1,96 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history/
+.svn/
+.swiftpm/
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+/coverage/
+*.freezed.dart
+*.g.dart
+
+# Generated Flutter localization files (if generated)
+# Keep source localization files in version control.
+
+# Android
+/android/.gradle/
+/android/captures/
+/android/local.properties
+/android/**/key.properties
+/android/**/google-services.json
+/android/**/upload-keystore.jks
+/android/**/release-key.jks
+
+# iOS
+/ios/Flutter/.last_build_id
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/flutter_export_environment.sh
+/ios/Pods/
+/ios/.symlinks/
+/ios/Runner/GeneratedPluginRegistrant.*
+/ios/Runner.xcworkspace/xcuserdata/
+/ios/Runner.xcodeproj/xcuserdata/
+/ios/Runner.xcodeproj/project.xcworkspace/xcuserdata/
+/ios/Runner/*.mode1v3
+/ios/Runner/*.mode2v3
+/ios/Runner/*.perspectivev3
+/ios/Runner/*.xccheckout
+/ios/Runner/*.moved-aside
+/ios/Runner/*.hmap
+/ios/Runner/*.ipa
+/ios/Runner/*.app
+/ios/Runner/*.dSYM.zip
+/ios/Runner/*.dSYM
+
+# macOS
+/macos/Flutter/GeneratedPluginRegistrant.swift
+/macos/Pods/
+
+# Linux
+/linux/flutter/ephemeral/
+
+# Windows
+/windows/flutter/ephemeral/
+
+# Web
+/web/flutter_service_worker.js
+
+# Signing certificates and private credentials
+*.jks
+*.keystore
+*.p12
+*.pfx
+.env
+.env.*
+!.env.example
+
+# IDE and OS temporary files
+*.tmp
+*.bak
+*.orig
+*~
+Thumbs.db
+Desktop.ini
